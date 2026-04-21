@@ -8,7 +8,7 @@ public class Runner01_Alumno
     {
         Alumno al1 = new Alumno(1, "Juan Perez");
         Alumno al2 = new Alumno(2, "Juan Sanchez");
-        Alumno al3 = new Alumno(3, "Juan");
+        Alumno al3 = new Alumno(3, "Juan Pablo");
         
         StreamWriter sw = new StreamWriter("Alumnos.txt");
         

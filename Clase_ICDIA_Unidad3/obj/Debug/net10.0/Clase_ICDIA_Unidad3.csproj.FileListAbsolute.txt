@@ -12,3 +12,4 @@ C:\Users\Luna\RiderProjects\Clase_ICDIA_Unidad3\Clase_ICDIA_Unidad3\obj\Debug\ne
 C:\Users\Luna\RiderProjects\Clase_ICDIA_Unidad3\Clase_ICDIA_Unidad3\obj\Debug\net10.0\Clase_ICDIA_Unidad3.pdb
 C:\Users\Luna\RiderProjects\Clase_ICDIA_Unidad3\Clase_ICDIA_Unidad3\obj\Debug\net10.0\Clase_ICDIA_Unidad3.genruntimeconfig.cache
 C:\Users\Luna\RiderProjects\Clase_ICDIA_Unidad3\Clase_ICDIA_Unidad3\obj\Debug\net10.0\ref\Clase_ICDIA_Unidad3.dll
+C:\Users\Luna\RiderProjects\Clase_ICDIA_Unidad3\Clase_ICDIA_Unidad3\obj\Debug\net10.0\Clase_ICDIA_Unidad3.sourcelink.json
