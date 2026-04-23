@@ -2,9 +2,9 @@
 
 namespace Clase_ICDIA_Unidad3.TareaRunners;
 
-public class RunnerT04_Mascotas
+public class RunnerT02_Mascotas
 {
-    public RunnerT04_Mascotas()
+    public RunnerT02_Mascotas()
     {
         int opcion = 0;
         do

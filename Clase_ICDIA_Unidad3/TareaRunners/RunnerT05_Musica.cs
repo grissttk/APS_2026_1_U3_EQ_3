@@ -2,9 +2,9 @@
 
 namespace Clase_ICDIA_Unidad3.TareaRunners;
 
-public class RunnerT07_Musica
+public class RunnerT05_Musica
 {
-    public RunnerT07_Musica()
+    public RunnerT05_Musica()
     {
         int opcion = 0;
         do
