@@ -12,6 +12,8 @@ class Program
         //new RunnerT03_Comida();
        // new Runner03_RegistroAlumnos();
        //new Runner04_RegistroAlumnos();
-       new Runner05_RegistroAlumno();
+       //new Runner05_RegistroAlumno();
+       //new RunnerOperacionesBasicas();
+       new RunnerLeerArchivos();
     }
 }
